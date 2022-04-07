@@ -8,7 +8,7 @@ import Home from "./Components/home/Home";
 import About from "./Components/about/About";
 import Menu from "./Components/menu/Menu";
 import Contact from "./Components/contact/Contact";
-import NoMatch from "./Components/404.jsx"
+
 
 
 export default function App() {
@@ -21,7 +21,7 @@ export default function App() {
           <Route path="about" element={<About />} />
           <Route path="menu" element={<Menu />} />
           <Route path="contact" element={<Contact />} />
-          <Route path="*" element={<NoMatch />} />
+          <Route path="*" element={<Home />} />
         </Route>
       </Routes>
 

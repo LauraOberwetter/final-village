@@ -7,14 +7,14 @@ import { LinkContainer } from 'react-router-bootstrap'
 import "./nav.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBurger } from '@fortawesome/free-solid-svg-icons'
+import {Link} from "react-router-dom"
 
 class Nav extends Component {
     render () {
         return (
             <Navbar expand="lg" bg="white" sticky="top" className="navbar">
                 <Container className="navContent">
-                            <Navbar.Brand href="/"><img className="logo" src={logo} /></Navbar.Brand>
-                            {/* <Navbar.Brand href="/"><img className="title" src={title} /></Navbar.Brand> */}
+                            <Navbar.Brand as={Link} to="/"><img className="logo" src={logo} /></Navbar.Brand>
                             <Navbar.Toggle aria-controls="basic-navbar-nav">
                                 <FontAwesomeIcon icon={faBurger} size="xl" color="black"/>
                             </Navbar.Toggle>
