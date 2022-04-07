@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/final-village/static/css/main.781e3c96.chunk.css",
-    "main.js": "/final-village/static/js/main.7256b802.chunk.js",
-    "main.js.map": "/final-village/static/js/main.7256b802.chunk.js.map",
+    "main.js": "/final-village/static/js/main.14a1f12d.chunk.js",
+    "main.js.map": "/final-village/static/js/main.14a1f12d.chunk.js.map",
     "runtime-main.js": "/final-village/static/js/runtime-main.929b51ac.js",
     "runtime-main.js.map": "/final-village/static/js/runtime-main.929b51ac.js.map",
-    "static/js/2.1186a836.chunk.js": "/final-village/static/js/2.1186a836.chunk.js",
-    "static/js/2.1186a836.chunk.js.map": "/final-village/static/js/2.1186a836.chunk.js.map",
+    "static/js/2.776a0f44.chunk.js": "/final-village/static/js/2.776a0f44.chunk.js",
+    "static/js/2.776a0f44.chunk.js.map": "/final-village/static/js/2.776a0f44.chunk.js.map",
     "index.html": "/final-village/index.html",
     "static/css/main.781e3c96.chunk.css.map": "/final-village/static/css/main.781e3c96.chunk.css.map",
-    "static/js/2.1186a836.chunk.js.LICENSE.txt": "/final-village/static/js/2.1186a836.chunk.js.LICENSE.txt",
+    "static/js/2.776a0f44.chunk.js.LICENSE.txt": "/final-village/static/js/2.776a0f44.chunk.js.LICENSE.txt",
     "static/media/BOMadison.494083c2.png": "/final-village/static/media/BOMadison.494083c2.png",
     "static/media/fb.8085d3d1.png": "/final-village/static/media/fb.8085d3d1.png",
     "static/media/illustration.fd780f80.png": "/final-village/static/media/illustration.fd780f80.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.929b51ac.js",
-    "static/js/2.1186a836.chunk.js",
+    "static/js/2.776a0f44.chunk.js",
     "static/css/main.781e3c96.chunk.css",
-    "static/js/main.7256b802.chunk.js"
+    "static/js/main.14a1f12d.chunk.js"
   ]
 }
