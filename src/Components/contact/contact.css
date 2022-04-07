@@ -1,0 +1,33 @@
+.contactParentContainer {
+    display: flex;
+  }
+
+  .map {
+    width: 100%
+  }
+
+  .flex-child-element {
+    flex: 1;
+    /* border: 2px solid black; */
+    margin: 10px;
+  }
+
+  #contactText {
+    text-align: center;
+  }
+  
+  .flex-child-element:first-child {
+    margin-right: 20px;
+  }
+
+  .h1Contact {
+    font-family: 'Michroma', sans-serif;
+    padding: 10%;
+    color: red;
+  }
+
+  .contactBody {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  

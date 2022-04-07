@@ -1,0 +1,24 @@
+#menuH1 {
+    margin: auto;
+    text-align: center;
+    font-family: 'Michroma', sans-serif;
+    padding-bottom: 20%;
+    padding-top: 3%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+.menu {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding-top: 5%;
+}
