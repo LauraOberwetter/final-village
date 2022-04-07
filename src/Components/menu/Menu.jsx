@@ -11,7 +11,7 @@ class Menu extends Component {
                     <img class="menu" src={menu}></img>                
                 </div>
                 <h1 id="menuH1">
-                    <a href="https://www.toasttab.com/village-bar-3801-mineral-point-rd/v3">Order Online with Toast</a>
+                    <a target="_blank" href="https://www.toasttab.com/village-bar-3801-mineral-point-rd/v3">Order Online with Toast</a>
                 </h1>
             </div>      
         )
