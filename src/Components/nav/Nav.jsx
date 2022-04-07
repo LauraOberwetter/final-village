@@ -3,7 +3,6 @@ import Navbar from 'react-bootstrap/Navbar';
 import {Container} from 'react-bootstrap';
 import { Nav as BootstrapNav } from 'react-bootstrap'
 import logo from "./vbLogo.jpg"
-import title from "./vbTitleLogo.png"
 import { LinkContainer } from 'react-router-bootstrap'
 import "./nav.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'

@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import "./contact.css"
-import outside from "./oldOutside.png";
 import map from "./map.png"; 
 import { Container, Row, Col } from 'react-bootstrap'
 // import MapComponent from '../map/MapComponent';
